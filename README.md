@@ -1,4 +1,6 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://lemondados.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F18ed1e7b-5a21-4c87-a78a-22794d88f745%2Fdeaca050-6fb2-45a0-a150-e8d42a73b7da%2FID_PESSOAL.png?table=block&id=82a9917a-c948-49b5-a527-5b5a8668c42f&spaceId=18ed1e7b-5a21-4c87-a78a-22794d88f745&width=700&userId=&cache=v2">
+<img align="right" alt="Id Pessoal - Bianca Rodrigues" height="380" src="https://file.notion.so/f/f/18ed1e7b-5a21-4c87-a78a-22794d88f745/4c78147b-3388-488e-b1b9-37c94fccc094/Code_typing-bro_(1).png?id=2741751f-6406-4358-ace5-04b4718bb549&table=block&spaceId=18ed1e7b-5a21-4c87-a78a-22794d88f745&expirationTimestamp=1716588000000&signature=cjQWu9rTMkx8qEd0DWoblAF_GUEoOX9o1odo_3hoKCU&downloadName=Code+typing-bro+%281%29.png">
+
+
 
 # :lemon: Bianca Rodrigues
 
