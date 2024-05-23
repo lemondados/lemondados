@@ -12,7 +12,7 @@
 ### Conecte-se comigo
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=BABF1F&color:FFF)](linkedin.com/in/c.rodriguesbianca)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=BABF1F&color:FFF)](linkedin.com/in/crodriguesbianca)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=BABF1F&color:FFF)](https://www.instagram.com/bia.bordei/)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=BABF1F&color:FFF)](https://lemondados.medium.com/)
 
