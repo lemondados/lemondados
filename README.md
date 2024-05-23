@@ -1,6 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://lemondados.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F18ed1e7b-5a21-4c87-a78a-22794d88f745%2Fdeaca050-6fb2-45a0-a150-e8d42a73b7da%2FID_PESSOAL.png?table=block&id=82a9917a-c948-49b5-a527-5b5a8668c42f&spaceId=18ed1e7b-5a21-4c87-a78a-22794d88f745&width=700&userId=&cache=v2">
 
-# Bianca Rodrigues
+# :lemon: Bianca Rodrigues
 
 <p align="justify">De assistente administrativo a Analista de dados. Sou graduada em Estatística pela Universidade Federal de Campina Grande. Meu primeiro projeto de analise de dados foi durante a graduação quando tive contato com o Rstudio (atual Posit), após alguns anos, trabalhei bastante com o Excel e um pouco de Power Bi e Python.
 <br>
